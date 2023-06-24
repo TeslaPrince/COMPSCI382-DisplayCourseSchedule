@@ -1,0 +1,11 @@
+table, td{
+    border: solid black;
+    border-collapse: collapse;
+}
+th{
+    color:white;
+    background-color: blue;
+}
+.link {
+    padding: 10px 20px;
+}

@@ -1,0 +1,121 @@
+460, COMPSCI, 162, 1, W 12:30 PM - 1:45 PM, Jiehui Ma, MG0115
+461, COMPSCI, 162, 2, W 2:00 PM - 3:15 PM, Jiehui Ma, HY0210
+462, COMPSCI, 162, 3, Web Based, Tina Cao, ONLINE 
+463, COMPSCI, 170, 1, M 9:30 AM - 10:45 AM, Jiehui Ma, MG0125
+464, COMPSCI, 170, 2, Tu 3:30 PM - 4:45 PM, Jiehui Ma, MG0115
+465, COMPSCI, 172, 1, MW 11:00 AM - 12:15 PM, To Be Arranged, MG0125
+466, COMPSCI, 172, 2, TuTh 9:30 AM - 10:45 AM, To Be Arranged, MG0115
+468, COMPSCI, 174, 2, TuTh 12:30 PM - 1:45 PM, Tina Cao, MG0115
+467, COMPSCI, 174, 1, MW 3:30 PM - 4:45 PM, Tina Cao, MG0115
+469, COMPSCI, 180, 1, M 11:00 AM - 12:15 PM, Jiehui Ma, MG0115
+470, COMPSCI, 215, 1, Tu 3:30 PM - 4:45 PM, Lopamudra Mukherjee, HY0210
+471, COMPSCI, 220, 1, TuTh 11:00 AM - 12:15 PM, To Be Arranged, HY0210
+472, COMPSCI, 222, 1, TuTh 2:00 PM - 3:15 PM, To Be Arranged, HY0210
+474, COMPSCI, 223, 2, W 11:00 AM - 12:15 PM, Arnab Ganguly, MG0115
+473, COMPSCI, 223, 1, Tu 2:00 PM - 3:15 PM, Arnab Ganguly, MG0115
+475, COMPSCI, 271, 1, M 2:00 PM - 3:30 PM, Athula Gunawardena, HY0210
+476, COMPSCI, 271, 2, Tu 11:00 AM - 12:15 PM, Athula Gunawardena, MG0115
+477, COMPSCI, 296, 1, TuTh 5:00 PM - 6:15 PM, Zachary Oster, MG0125
+478, COMPSCI, 310, 1, Web Based, Robert Kuzoff, ONLINE 
+479, COMPSCI, 320, 1, MW 9:30 AM - 10:45 AM, Zachary Oster, MG0115
+480, COMPSCI, 332, 1, Tu 12:30 PM - 1:45 PM, Lopamudra Mukherjee, HY0210
+481, COMPSCI, 353, 1, TuTh 11:00 AM - 12:15 PM, To Be Arranged, MG0125
+482, COMPSCI, 381, 1, TuTh 9:30 AM - 10:45 AM, Tina Cao, HY0210
+483, COMPSCI, 382, 1, MW 3:30 PM - 4:45 PM, To Be Arranged, MG0125
+484, COMPSCI, 382, 2, TuTh 12:30 PM - 1:45 PM, To Be Arranged, MG0125
+485, COMPSCI, 412, 1, MW 11:00 AM - 12:15 PM, Haijian Sun, HY0210
+486, COMPSCI, 433, 1, MW 2:00 PM - 3:15 PM, Arnab Ganguly, MG0115
+487, COMPSCI, 455, 1, TuTh 5:00 PM - 6:15 PM, To Be Arranged, HY0210
+488, COMPSCI, 460, 1, MW 5:00 PM - 6:15 PM, To Be Arranged, HY0210
+489, COMPSCI, 476, 1, MW 3:30 PM - 4:45 PM, Zachary Oster, HY0210
+490, COMPSCI, 481, 1, TuTh 3:30 PM - 4:45 PM, Sobitha Samaranayake, MG0125
+491, COMPSCI, 493, 1, Web Based, Zachary Oster, INDSTY
+492, COMPSCI, 498, 1, Web Based, Zachary Oster, INDSTY
+493, COMPSCI, 498R, 1, Web Based, To Be Arranged, INDSTY
+1207, MATH, 124, 4, Tu 1:00 PM - 1:50 PM, To Be Arranged, HE0117
+1206, MATH, 124, 3, W 12:00 PM - 12:50 PM, Teri Alder, WH1014
+1205, MATH, 124, 2, W 11:00 AM - 11:50 AM, Teri Alder, WH1014
+1204, MATH, 124, 1, Tu 11:00 AM - 11:50 AM, Teri Alder, SC3009
+1234, MATH, 139, 23, TuTh 2:00 PM - 3:15 PM, Peter Lampe, MG0117
+1233, MATH, 139, 22, TuTh 2:00 PM - 3:15 PM, John Reilly, HE0112
+1232, MATH, 139, 21, MW 2:00 PM - 3:15 PM, Heather Conte, HE0112
+1231, MATH, 139, 20, MW 2:00 PM - 3:15 PM, To Be Arranged, HE0102
+1230, MATH, 139, 19, TuTh 12:30 PM - 1:45 PM, John Reilly, HE0112
+1229, MATH, 139, 19, TuTh 12:30 PM - 1:45 PM, John Reilly, HE0112
+1228, MATH, 139, 18, TuTh 12:30 PM - 1:45 PM, Josh Ruk, HE0102
+1235, MATH, 139, 24, MW 3:30 PM - 4:45 PM, Josh Ruk, HE0102
+1236, MATH, 139, 25, MW 3:30 PM - 4:45 PM, To Be Arranged, HE0112
+1237, MATH, 139, 26, MW 3:30 PM - 4:45 PM, Teri Alder, HH1310
+1238, MATH, 139, 26, MW 3:30 PM - 4:45 PM, Teri Alder, HH1310
+1239, MATH, 139, 27, TuTh 3:30 PM - 4:45 PM, Peter Lampe, MG0117
+1240, MATH, 139, 28, Web Based, Corey Bruns, ONLINE S
+1241, MATH, 139, 29, Web Based, Corey Bruns, ONLINE S
+1242, MATH, 139, 30, Web Based, Heather Conte, ONLINE S
+1243, MATH, 139, 31, Web Based, Heather Conte, ONLINE S
+1244, MATH, 139, 32, TuTh 2:00 PM - 3:15 PM, To Be Arranged, HE0102
+1227, MATH, 139, 18, TuTh 12:30 PM - 1:45 PM, Josh Ruk, HE0102
+1226, MATH, 139, 17, MW 12:30 PM - 1:45 PM, Pawel Felcyn, HE0112
+1225, MATH, 139, 17, MW 12:30 PM - 1:45 PM, Pawel Felcyn, HE0112
+1208, MATH, 139, 1, MW 8:00 AM - 9:15 AM, Morgan Gauvin, HE0102
+1209, MATH, 139, 2, TuTh 8:00 AM - 9:15 AM, Huckleberry Rahr, HE0102
+1210, MATH, 139, 3, MW 9:30 AM - 10:45 AM, Morgan Gauvin, HE0102
+1211, MATH, 139, 4, MW 9:30 AM - 10:45 AM, To Be Arranged, HE0112
+1212, MATH, 139, 5, MW 9:30 AM - 10:45 AM, Josh Ruk, MG0117
+1213, MATH, 139, 6, TuTh 9:30 AM - 10:45 AM, To Be Arranged, HE0102
+1214, MATH, 139, 7, TuTh 9:30 AM - 10:45 AM, John Reilly, HE0112
+1215, MATH, 139, 8, MW 11:00 AM - 12:15 PM, To Be Arranged, HE0102
+1216, MATH, 139, 9, MW 11:00 AM - 12:15 PM, Pawel Felcyn, HE0112
+1217, MATH, 139, 10, MW 11:00 AM - 12:15 PM, Balamurugan Pandiyan, MG0117
+1224, MATH, 139, 16, MW 12:30 PM - 1:45 PM, Morgan Gauvin, HE0102
+1223, MATH, 139, 16, MW 12:30 PM - 1:45 PM, Morgan Gauvin, HE0102
+1222, MATH, 139, 15, TuTh 11:00 AM - 12:15 PM, To Be Arranged, HE0113
+1221, MATH, 139, 14, TuTh 11:00 AM - 12:15 PM, Balamurugan Pandiyan, MG0117
+1220, MATH, 139, 13, TuTh 11:00 AM - 12:15 PM, Pawel Felcyn, HY0216
+1219, MATH, 139, 12, TuTh 11:00 AM - 12:15 PM, To Be Arranged, HE0112
+1218, MATH, 139, 11, TuTh 11:00 AM - 12:15 PM, Rachel Chaphalkar, HE0102
+1250, MATH, 142, 6, MTuWTh 1:00 PM - 1:50 PM, To Be Arranged, HE0219
+1249, MATH, 142, 5, MTuWTh 12:00 PM - 12:50 PM, To Be Arranged, HE0219
+1248, MATH, 142, 4, MTuWTh 11:00 AM - 11:50 AM, Xueqing Chen, HE0219
+1247, MATH, 142, 3, MTuWTh 10:00 AM - 10:50 AM, Geethamali Samaranayake, UH0144
+1246, MATH, 142, 2, MTuWTh 9:00 AM - 9:50 AM, Pawel Felcyn, WH2013
+1245, MATH, 142, 1, MTuWTh 9:00 AM - 9:50 AM, To Be Arranged, HE0219
+1262, MATH, 143, 12, Web Based, To Be Arranged, ONLINE S
+1261, MATH, 143, 11, Web Based, Huckleberry Rahr, ONLINE S
+1260, MATH, 143, 10, Web Based, Huckleberry Rahr, ONLINE S
+1259, MATH, 143, 9, MW 3:30 PM - 4:45 PM, Leon Arriola, HH1317
+1258, MATH, 143, 8, MW 9:30 AM - 10:45 AM, Tina Cao, HH2306
+1257, MATH, 143, 7, MW 2:00 PM - 3:15 PM, Ki-Bong Nam, UH0144
+1256, MATH, 143, 6, TuTh 12:30 PM - 1:45 PM, Tamas Szabo, HH1317
+1251, MATH, 143, 1, MW 9:30 AM - 10:45 AM, Ki-Bong Nam, HH1317
+1252, MATH, 143, 2, TuTh 9:30 AM - 10:45 AM, Wesley Hough, HH1317
+1253, MATH, 143, 3, MW 11:00 AM - 12:15 PM, Ki-Bong Nam, HH1317
+1254, MATH, 143, 4, TuTh 11:00 AM - 12:15 PM, Leon Arriola, HH1317
+1255, MATH, 143, 5, MW 12:30 PM - 1:45 PM, Leon Arriola, HH1317
+1263, MATH, 147, 1, MTuWTh 2:00 PM - 2:50 PM, Teri Alder, HY0216
+1264, MATH, 148, 1, TuTh 9:30 AM - 10:45 AM, Josh Ruk, HY0216
+1265, MATH, 148, 2, MW 12:30 PM - 1:45 PM, Josh Ruk, HY0216
+1267, MATH, 149, 2, TuTh 12:30 PM - 1:45 PM, To Be Arranged, HY0216
+1266, MATH, 149, 1, MW 9:30 AM - 10:45 AM, To Be Arranged, HY0216
+1268, MATH, 151, 1, TuTh 9:30 AM - 10:45 AM, Balamurugan Pandiyan, MG0117
+1269, MATH, 151, 2, MW 11:00 AM - 12:15 PM, Corey Bruns, HH1310
+1270, MATH, 151, 3, TuTh 3:30 PM - 4:45 PM, Pawel Felcyn, UH0144
+1271, MATH, 152, 1, MTuWThF 9:00 AM - 9:50 AM, Peter Lampe, HH1310
+1272, MATH, 152, 2, MW 2:00 PM - 2:50 PM, Balamurugan Pandiyan, HE0219
+1273, MATH, 250, 1, MW 2:00 PM - 2:50 PM, Corey Bruns, HE0117
+1276, MATH, 253, 3, MW 2:00 PM - 2:50 PM, Xueqing Chen, HH1310
+1275, MATH, 253, 2, MTuWThF 1:00 PM - 1:50 PM, Geethamali Samaranayake, HH1310
+1274, MATH, 253, 1, MTuWThF 10:00 AM - 10:50 AM, Peter Lampe, HH1310
+1277, MATH, 254, 1, MTuWTh 10:00 AM - 10:50 AM, To Be Arranged, HE0219
+1278, MATH, 255, 1, MW 11:00 AM - 12:15 PM, Sobitha Samaranayake, HY0216
+1279, MATH, 280, 1, MW 2:00 PM - 3:15 PM, Geethamali Samaranayake, HH1317
+1280, MATH, 281, 1, M 5:00 PM - 5:50 PM, Tamas Szabo, HY0216
+1281, MATH, 301, 1, MW 2:00 PM - 3:15 PM, Wesley Hough, MG0117
+1282, MATH, 343, 1, TuTh 11:00 AM - 12:15 PM, Wesley Hough, HH1310
+1283, MATH, 355, 1, MW 3:30 PM - 4:45 PM, Ki-Bong Nam, UH0144
+1284, MATH, 361, 1, TuTh 9:30 AM - 10:45 AM, Sobitha Samaranayake, HE0117
+1285, MATH, 370, 1, MW 12:30 PM - 1:45 PM, Tamas Szabo, MG0117
+1286, MATH, 416, 1, MW 3:30 PM - 4:45 PM, Tamas Szabo, HY0216
+1287, MATH, 422, 1, TuTh 2:00 PM - 3:15 PM, Tamas Szabo, HH1317
+1288, MATH, 450, 1, MW 12:30 PM - 1:45 PM, Wesley Hough, HE0117
+1289, MATH, 452, 1, MW 9:30 AM - 10:45 AM, Xueqing Chen, HE0117
+1290, MATH, 471, 1, TuTh 2:00 PM - 3:15 PM, Leon Arriola, MG0125
